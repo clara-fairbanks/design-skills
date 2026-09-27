@@ -38,10 +38,10 @@ AI development environment that turns a prompt into a deployed onchain app (fron
 ### Circle — Arc Portal (2025–26) · `/work/arc-portal`
 Arc-native financial account: fund, earn, swap, send, discover, agent wallets. She defined the product, built the first working prototype in the repo in a few hours, designed agent setup and funding flows, ran and synthesized 11 user interviews, iterated the launch version, and took over primary design coordination post-launch. Launched with Arc mainnet. Research found strengths in visual trust, simplicity, swap, and the agent experience; confusion around wallet vs. Arc balances, cross-chain behavior, yield risk, and withdrawal.
 
-### Circle — Circle & Arc Docs (2025–26) · `/work/circle-docs`
-Reframed IA around use cases and developer workflows; redesigned the Circle Docs homepage; defined navigation and long-term docs strategy; created Arc's Mintlify styles, testnet experience, "Welcome to Arc," and mainnet homepage; added AI and MCP entry points. Shipped a product-context/code update to the docs codebase herself. Circle Docs migrated to Mintlify November 2025. Stakeholders report the large majority of Arc Docs traffic is agent traffic (no formal KPI framework yet).
+### Circle — Developer Tooling (2025–26) · `/work/developer-tooling`
+Owns the developer-facing layer: Circle + Arc docs, App Kits positioning and discovery, Kit Keys in Console, and the handoffs between those surfaces and Arc Studio (Build with AI rail, Skills, MCP entry points, sample-app strategy). Reframed IA around use cases and developer workflows; redesigned the Circle Docs homepage; defined navigation and long-term docs strategy; created Arc's Mintlify styles, testnet experience, "Welcome to Arc," and mainnet homepage; added AI and MCP entry points. Shipped a product-context/code update to the docs codebase herself. Circle Docs migrated to Mintlify November 2025. Stakeholders report the large majority of Arc Docs traffic is agent traffic (no formal KPI framework yet).
 
-### Circle — Agent Wallet CLI & Recipes (2026) · `/work/agent-wallet-cli`
+### Circle — Agent Stack (2026) · `/work/agent-stack`
 Shaped onboarding, wallet, marketplace, and service-discovery experience; tested and revised CLI prompts; found and fixed OTP/usability problems via bug bash; designed seller and registry flows; created the "recipes" concept (runnable starting points so the first run is never a blank page) and contributed the initial implementation. CLI provides wallet creation, transfers, swaps, bridges, contract execution, service discovery, and x402 payments. Public site: agents.circle.com.
 
 ### Circle — smaller work
